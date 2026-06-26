@@ -100,6 +100,6 @@ Proyecto académico — CS50 AI (Harvard)
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 Proyecto con fines educativos.
